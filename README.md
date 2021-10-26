@@ -1,4 +1,4 @@
 # CustomerSegmentation
 
-Customer Segemtation using Kmeans Clustering
-Customer Segmentation using RFM Score
+1) Customer Segemtation using Kmeans Clustering
+2) Customer Segmentation using RFM Score
